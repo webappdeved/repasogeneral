@@ -1,7 +1,7 @@
 /* 
    ====================================================================
-   Materia: Laboratorio de Programación (LPR) — 5° 3°
-   Institución: E.E.S.T. N° 1 "Eduardo Ader" — Vicente López
+   Materia: Laboratorio de Programación (LPR) — 5° Ano
+   Institución: E.E.S.T. N° 99 "Juana Azurduy" — Vicente López
    Archivo: src/main.cpp
    Actividad 6: Suite Integradora de Bajo Nivel
    ====================================================================
@@ -16,8 +16,8 @@ int sumaRecursiva(int n);
 void intercambiarValores(int* ptrA, int* ptrB);
 
 int main() {
-    cout << "=====================================================" << endl;
-    cout << "  TALLER INTEGRADOR REPASO - ESTUDIANTE: Jung Kook  " << endl;
+    cout << "================================================================" << endl;
+    cout << "  TALLER INTEGRADOR REPASO - ESTUDIANTE: Manuel Ascencio Padilla" << endl;
     cout << "=====================================================" << endl;
 
     // --- RETO 1: RECURSIVIDAD ---
