@@ -25,13 +25,18 @@ repasogeneral/
 ├── .gitignore                      <-- Reglas de exclusión de binarios (.exe, .vscode)
 ├── LICENSE                         <-- Licencia MIT de uso escolar
 ├── README.md                       <-- Portada técnica del proyecto
-├── Docs/
-│   ├── EEST99_LPR2026_ACT06_Informe_v1.0.0.pdf
+├── docs/							<-- Documentación y manuales técnicos
+│   ├── InformeEEST1_LPR2026_ACT06_G03_Informe_v1.0.0.pdf
 │   └── CHANGELOG.md                <-- Bitácora de versionado SemVer
-├── src/
+│   └── manuales                
+│   	├── manual_programador_v1.0.0.pdf
+│   	├── manual_programador_v1.0.0.md
+│   	├── manual_usuario_v1.0.0.pdf
+│   	├── manual_usuario_v1.0.0.md
+├── src/							<-- Código fuente compilable
 │   ├── main.cpp                    <-- Código fuente C++ unificado
 │   └── repasogeneral.exe                  <-- Ejecutable local (ignorado por Git)
-└── Capturas/
+└── capturas/						<-- Evidencias de ejecución (.png)
     ├── ejecucion_repasogeneral.png        <-- Captura de pantalla de la terminal
     └── traza_memoria.png           <-- Diagrama de distribución en la RAM
 ```
