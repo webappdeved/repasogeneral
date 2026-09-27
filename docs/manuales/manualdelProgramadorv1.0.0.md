@@ -34,23 +34,24 @@
 
 REPASOGENERAL/
 
+├── .gitattributes                  \<-- Normalización de finales de línea  
 ├── .gitignore                      \<-- Exclusiones de Git (.exe, .vscode/)  
-├── LICENSE                         \<-- Licencia MIT  
-├── README.md                       \<-- Portada principal  
+├── LICENSE                         \<-- Licencia MIT de uso escolar  
+├── README.md                     \<-- Portada técnica del proyecto  
 ├── docs/                           \<-- Documentación y manuales técnicos  
-│   └── Informe EEST1\_LPR2026\_ACT06\_G03\_Informe\_v1.0.0.pdf  
-│   ├── CHANGELOG.md  
+│   └── InformeEEST1\_LPR2026\_ACT06\_G03\_Informe\_v1.0.0.pdf  
+│   ├── CHANGELOG.md	\<-- Bitácora de versionado SemVer  
 │   └── manuales/  
 │       ├── manual\_programador\_v1.0.0.pdf  
 │       ├── manual\_programador\_v1.0.0.md  
 │       └── manual\_usuario\_v1.0.0.pdf  
 │       └── manual\_usuario\_v1.0.0.md  
 ├── src/                            \<-- Código fuente compilable  
-│   ├── main.cpp  
-│   └── repasogeneral.exe  
+│   ├── main.cpp		\<-- Código fuente C++ unificado  
+│   └── repasogeneral.exe	\<-- Ejecutable local (ignorado por Git)  
 └── capturas/                       \<-- Evidencias de ejecución (.png)  
-    ├── ejecucion\_repasogeneral.png  
-    └── traza\_memoria.png
+    ├── ejecucion\_repasogeneral.png	\<-- Captura de pantalla de la terminal  
+    └── traza\_memoria.png		\<-- Diagrama de distribución en la RAM
 
 ## **🧩 2\. DOCUMENTACIÓN DE MÓDULOS Y FUNCIONES (src/main.cpp)**
 
