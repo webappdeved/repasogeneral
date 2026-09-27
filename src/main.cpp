@@ -18,7 +18,7 @@ void intercambiarValores(int* ptrA, int* ptrB);
 int main() {
     cout << "================================================================" << endl;
     cout << "  TALLER INTEGRADOR REPASO - ESTUDIANTE: Manuel Ascencio Padilla" << endl;
-    cout << "=====================================================" << endl;
+    cout << "================================================================" << endl;
 
     // --- RETO 1: RECURSIVIDAD ---
     cout << "\n=== RETO 1: SUMA RECURSIVA ===" << endl;
