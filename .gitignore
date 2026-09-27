@@ -1,0 +1,17 @@
+# Binarios y Ejecutables
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Entornos de desarrollo e IDEs
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Archivos del sistema
+Thumbs.db
+Desktop.ini
+.DS_Store

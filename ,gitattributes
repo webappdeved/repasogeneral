@@ -1,0 +1,4 @@
+# Normalización de finales de línea entre Windows y Linux/GitLab
+* text=auto eol=lf
+*.cpp text eol=crlf
+*.h text eol=crlf
