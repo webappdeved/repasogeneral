@@ -1,5 +1,8 @@
 # 🛠️ ACTIVIDAD 6: TALLER PRÁCTICO DE REPASO Y CONSOLIDACIÓN EN C++
 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![LPR](https://img.shields.io/badge/Curso-LPR-F8991D?style=for-the-badge)
+
 > **Asignatura:** Laboratorio de Programación (LPR) — 5° Año  
 > **Institución:** E.E.S.T. N° 99 "Juana Azurduy" - Vicente López  
 > **Profesor:** Prof. Mansilla Muñoz York  
