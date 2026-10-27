@@ -5,9 +5,9 @@
 
 > **Asignatura:** Laboratorio de Programación (LPR) — 5° Año  
 > **Institución:** E.E.S.T. N° 99 "Juana Azurduy" - Vicente López  
-> **Profesor:** Prof. Mansilla Muñoz York
-> **Estudiante:** Jung Kook
-> **Ciclo Lectivo:** 2026
+> **Profesor:** Prof. Mansilla Muñoz York    
+> **Estudiante:** Jung Kook    
+> **Ciclo Lectivo:** 2026    
 
 ---
 
